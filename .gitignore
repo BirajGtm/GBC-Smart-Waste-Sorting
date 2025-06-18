@@ -1,1 +1,7 @@
+# Ignore env
 agileenv/
+# Ignore datasets
+Data/raw data/
+Data/processed/
+Data/*.zip
+
