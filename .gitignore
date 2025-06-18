@@ -1,1 +1,3 @@
 agileenv/
+# Ignore large preprocessed data files
+Data/processed data/*.npy
